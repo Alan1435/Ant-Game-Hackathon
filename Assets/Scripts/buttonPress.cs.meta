@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29cee334e3b5efa4b8e521d6530f6770
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pressed: {fileID: 21300000, guid: d0ce6371e9167454dbdf99d273ef7b3c, type: 3}
+  - unPressed: {fileID: 21300000, guid: b81514b62ea74e34ab48c804742054c2, type: 3}
+  - beam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
